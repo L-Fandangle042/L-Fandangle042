@@ -12,7 +12,7 @@
 <p align="center">
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" /> </a>
     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge&logoColor=ffdd54" alt="pandas" /> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-notebook-orange?logo=pandas&logoColor=fff&style=for-the-badge&logoColor=ffdd54" alt="git"/> </a>
+    <a href="https://jupyter.org/" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-notebook-orange?logo=pandas&logoColor=fff&style=for-the-badge&logoColor=ffdd54" alt="Jupyter"/> </a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=fff&style=for-the-badge&logoColor=ffdd54" alt="SQL"/> </a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/-Streamlit-FF4B4B&?logo=streamlit&logoColor=fff&style=for-the-badge&logoColor=ffdd54" alt="streamlit"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
